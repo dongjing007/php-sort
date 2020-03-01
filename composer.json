@@ -1,0 +1,19 @@
+{
+    "name": "dj/algorithm",
+    "description": "php实现排序算法",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "10467",
+            "email": "dongjing@addcn.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"},
+    "autoload": {
+        "psr-4": {
+            "sort\\": "src/"
+        }
+    }
+}
